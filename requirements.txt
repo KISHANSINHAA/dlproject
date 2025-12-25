@@ -1,0 +1,10 @@
+tensorflow
+numpy
+opencv-python
+matplotlib
+pandas
+scikit-learn
+imbalanced-learn
+streamlit
+pillow
+lxml
